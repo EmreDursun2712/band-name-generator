@@ -1,4 +1,3 @@
-```markdown
 #🎸 Band Name Generator
 
 This is a simple Python project that generates random band names based on user inputs.
