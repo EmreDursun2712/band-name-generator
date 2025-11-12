@@ -22,4 +22,5 @@ What's your pet's name? Tiger
 Your band name could be: London Tiger
 
 🧑‍💻 Author
-[Emre Dursun](https://github.com/EmreDursun2712)
+
+--->[Emre Dursun](https://github.com/EmreDursun2712)
