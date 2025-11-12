@@ -1,4 +1,4 @@
-#🎸 Band Name Generator
+# 🎸 Band Name Generator
 
 This is a simple Python project that generates random band names based on user inputs.
 
@@ -11,16 +11,14 @@ This is a simple Python project that generates random band names based on user i
 - Python 3.x
 
 ## 🚀 Run it yourself
-    ```bash
     git clone https://github.com/EmreDursun2712/band-name-generator.git
     cd band-name-generator
     python3 app.py
 
-🧾 Example
-What's the name of the city you grew up in? London
-What's your pet's name? Tiger
-Your band name could be: London Tiger
+## 🧾 Example
+- What's the name of the city you grew up in? London
+- What's your pet's name? Tiger
+- Your band name could be: London Tiger
 
-🧑‍💻 Author
-
---->[Emre Dursun](https://github.com/EmreDursun2712)
+### 🧑‍💻 Author
+**[Emre Dursun](https://github.com/EmreDursun2712)**
